@@ -1,6 +1,6 @@
 # car-marketplace-monitor
 
-# 🚗 Car Marketplace Monitor
+#  Car Marketplace Monitor
 
 An extensible, agent-based backend system that monitors public car listings
 and notifies users when matching criteria are met.
